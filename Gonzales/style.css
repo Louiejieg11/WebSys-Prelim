@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+   
+}
+
+div{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+section{
+    display: flex;
+    gap: 320px;
+}
+
+footer{
+    text-align: center;
+}
+
+button{
+    padding: 8px;
+    border: none;
+    background-color: #008DDA;
+    border-radius: 10px;
+}
